@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\AndiRayhan\StudioProjects\museioreceiverdroid\app\libs\oscp5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63368ef83409f5718e367610a13da97bed5cff35">
+        <dex dex="C:\Users\AndiRayhan\StudioProjects\museioreceiverdroid\app\build\intermediates\pre-dexed\debug\oscp5-bb6225609b9b4ccdf42333bd93713cf7a3da4206.jar" />
+    </item>
+    <item
+        jar="C:\Users\AndiRayhan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\AndiRayhan\StudioProjects\museioreceiverdroid\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-44489ee0f4a272957eb71301bfadc85d47388a45.jar" />
+    </item>
+    <item
+        jar="C:\Users\AndiRayhan\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\AndiRayhan\StudioProjects\museioreceiverdroid\app\build\intermediates\pre-dexed\debug\gson-2.3-c215a78a961d708f2c34d07eb164d7cd1779a925.jar" />
+    </item>
+
+</items>

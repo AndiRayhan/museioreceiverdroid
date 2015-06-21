@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Muse-io Receiver</string>
+	<string name="alpha">Alpha Values Per Channel:</string>
+	<string name="beta">Beta Values Per Channel:</string>
+	<string name="theta">Theta Values Per Channel:</string>
+	<string name="delta">Delta Values Per Channel:</string>
+	<string name="init_val">0.0</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
